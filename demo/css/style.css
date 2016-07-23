@@ -1,0 +1,10 @@
+.nav{
+    border-bottom:4px solid red;
+    
+}
+.logo img{
+    display:block;
+    float:left;
+    height:60px;
+    padding:0 30px 10px;
+}
